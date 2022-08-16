@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(56, 8, 170);
+}
+h1{
+    color:black;
+    text-align:center;
+    font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
+}
+.header{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 100px;
+    text-align: center;
+    color:black;
+}
+.column{
+    padding: 100px;
+    background-color:aqua;
+    display: flex;
+    justify-content: space-around;
+}
